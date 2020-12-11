@@ -1,1 +1,1 @@
-"# HCI_Project2" 
+CD into directory and run using "npm start"
