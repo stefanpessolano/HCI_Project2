@@ -1,0 +1,4777 @@
+[
+{
+  "name": "Karlens Bleakman",
+  "username": "SwiftPorcupine22",
+  "bio": "Passionate tv nerd and lifelong web junkie. I love sleeping.",
+  "difficulty": ["Casual","Competitive"],
+  "difficultyList": [
+      {
+          "label": "casual",
+          "value": "casual",
+          "checked": true
+      },
+      {
+          "label": "competitive",
+          "value": "competitive",
+          "checked": true
+      }
+  ],
+  "gamesplayed": [
+    {
+      "name": "League of Legends",
+      "rating": "1.0"
+    },
+    {
+      "name": "Fire Emblem: Three Houses",
+      "rating": "4.5"
+    }
+  ],
+  "categories":["Action","Strategy"],
+  "categoriesList": [
+      {
+          "label": "action",
+          "value": "action",
+          "checked": true
+      },
+      {
+          "label": "adventure",
+          "value": "adventure",
+          "checked": false
+      },
+      {
+          "label": "shooter",
+          "value": "shooter",
+          "checked": false
+      },
+      {
+          "label": "sports",
+          "value": "sports",
+          "checked": false
+      },
+      {
+          "label": "strategy",
+          "value": "strategy",
+          "checked": true
+      }
+  ], 
+  "platforms":["Switch","PC"],
+  "platformsList1": [
+      {
+          "label":"Microsoft",
+          "children":[
+              {
+                  "label":"XBOXONE",
+                  "value":"XBOXONE",
+                  "checked":false
+              }
+          ]
+      },
+      {
+          "label":"Nintendo",
+          "children":[
+              {
+                  "label":"Switch",
+                  "value":"Switch",
+                  "checked":true
+              }
+          ]
+      },
+      {
+          "label":"Sony",
+          "children":[
+              {
+                  "label":"PS4",
+                  "value":"PS4",
+                  "checked":false
+              },
+              {
+                  "label":"PS5",
+                  "value":"PS5",
+                  "checked":false
+              }
+          ]
+      },
+      {
+          "label":"Other",
+          "children":[
+              {
+                  "label":"PC",
+                  "value":"PC",
+                  "checked":true
+              }
+          ]
+      }
+  ], 
+  "platformsList2" : [
+      {
+          "label":"XBOXONE",
+          "value":"XBOXONE",
+          "checked":false
+      },
+      {
+          "label":"Switch",
+          "value":"Switch",
+          "checked":true
+      },
+      {
+          "label":"PS4",
+          "value":"PS4",
+          "checked":false
+      },
+      {
+          "label":"PS5",
+          "value":"PS5",
+          "checked": false
+      },
+      {
+          "label":"PC",
+          "value":"PC",
+          "checked":true
+      }
+      
+  ],
+  "picture": "https://robohash.org/SwiftPorcupine22?set=set2"
+},
+{
+  "name": "Terese Greatland",
+  "username": "LuckyAlmond26",
+  "bio": "I'm passionate about making things fun and simple. Love Anime.",
+  "difficulty": ["Casual"],
+  "difficultyList": [
+      {
+          "label": "casual",
+          "value": "casual",
+          "checked": true
+      },
+      {
+          "label": "competitive",
+          "value": "competitive",
+          "checked": false
+      }
+  ],
+  "gamesplayed": [
+    {
+      "name": "Fire Emblem: Three Houses",
+      "rating": "5.0"
+    }
+  ],
+  "categories":["Action","Strategy"],
+  "categoriesList": [
+      {
+          "label": "action",
+          "value": "action",
+          "checked": true
+      },
+      {
+          "label": "adventure",
+          "value": "adventure",
+          "checked": false
+      },
+      {
+          "label": "shooter",
+          "value": "shooter",
+          "checked": false
+      },
+      {
+          "label": "sports",
+          "value": "sports",
+          "checked": false
+      },
+      {
+          "label": "strategy",
+          "value": "strategy",
+          "checked": true
+      }
+  ], 
+  "platforms":["Switch","PC"],
+  "platformsList1": [
+      {
+          "label":"Microsoft",
+          
+          "children":[
+              {
+                  "label":"XBOXONE",
+                  "value":"XBOXONE",
+                  "checked":false
+              }
+          ]
+      },
+      {
+          "label":"Nintendo",
+          "children":[
+              {
+                  "label":"Switch",
+                  "value":"Switch",
+                  "checked":true
+              }
+          ]
+      },
+      {
+          "label":"Sony",
+          "children":[
+              {
+                  "label":"PS4",
+                  "value":"PS4",
+                  "checked":false
+              },
+              {
+                  "label":"PS5",
+                  "value":"PS5",
+                  "checked":false
+              }
+          ]
+      },
+      {
+          "label":"Other",
+          "children":[
+              {
+                  "label":"PC",
+                  "value":"PC",
+                  "checked":true
+              }
+          ]
+      }
+  ], 
+  "platformsList2" : [
+      {
+          "label":"XBOXONE",
+          "value":"XBOXONE",
+          "checked":false
+      },
+      {
+          "label":"Switch",
+          "value":"Switch",
+          "checked":true
+      },
+      {
+          "label":"PS4",
+          "value":"PS4",
+          "checked":false
+      },
+      {
+          "label":"PS5",
+          "value":"PS5",
+          "checked": false
+      },
+      {
+          "label":"PC",
+          "value":"PC",
+          "checked":true
+      }
+      
+  ],
+  "picture": "https://robohash.org/LuckyAlmond26?set=set2"
+},
+{
+    "name": "Andrew Gieger",
+    "username": "JigJagTV",
+    "bio": "Originally from Jacksonville. I love black and white classics, chillout music and green tea.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Fall Guys",
+            "rating": 4.0
+          },
+          {
+            "name": "League of Legends",
+            "rating": 3.0
+          },
+          {
+            "name": "Valorant",
+            "rating": 5.0
+          }
+    ],
+    "categories":["Action","Adventure","Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/JigJagTV?set=set2"
+},
+{
+    "name": "Killian Holde",
+    "username": "OrangeNugget99",
+    "bio": "I love to ride a bike every now and then. Enjoy coffee, whisky and red wine.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Call of Duty: Black Ops Cold War",
+            "rating": 4.0
+          },
+          {
+            "name": "League of Legends",
+            "rating": 3.0
+          },
+          {
+            "name": "Valorant",
+            "rating": 4.5
+          }
+    ],
+    "categories":["Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/OrangeNugget99?set=set2"
+},
+{
+    "name": "Augustin Bicheno",
+    "username": "SadManatee76",
+    "bio": "Originally from Colorado. Lover of art, languages and travelling.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+          "name": "Assassins Creed: Black Flag",
+          "rating": "3.5"
+        }
+    ],
+    "categories":["Action","Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/SadManatee76?set=set2"
+},
+{
+    "name": "Violet Hutsby",
+    "username": "IcyRose7",
+    "bio": "I see video and web as a way to reach and inspire people.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Animal Crossing New Horizons",
+            "rating": "5.0"
+          }
+    ],
+    "categories":["Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["Switch","PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/IcyRose7?set=set2"
+},
+{
+    "name": "Dion Bythell",
+    "username": "RedSquirrel78",
+    "bio": "I get my inspiration from the fictional world. I'm a social geek.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "League of Legends",
+            "rating": 5
+          },
+          {
+            "name": "Destiny 2",
+            "rating": 1
+          }
+    ],
+    "categories":["Action","Shooter","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["XBOXONE","Switch","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/RedSquirrel78?set=set2"
+},
+{
+    "name": "Rebe Gian",
+    "username": "LonelyStinkbug4",
+    "bio": "Dreamer who loves tee shirts, travelling and meeting new people.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+      {
+        "name": "League of Legends",
+        "rating": "5.0"
+      }
+    ],
+    "categories":["Action","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/LonelyStinkbug4?set=set2"
+},
+{
+    "name": "Yancy Samsworth",
+    "username": "Indighost89",
+    "bio": "OTv lover and hardcore bacon geek. I have a cat named Confucius.",
+    "difficulty": ["Competitive","Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Fire Emblem: Three Houses",
+            "rating": "4.0"
+        }
+    ],
+    "categories":["Action","Adventure","Shooter","Sports","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/Indighost89?set=set2"
+},
+{
+    "name": "Jillana Goncaves",
+    "username": "SteamShark11",
+    "bio": "Geek that loves minimal and harmonious designs. I'm learning Japanese.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Call of Duty: Black Ops Cold War",
+            "rating": 2.0
+          },
+          {
+            "name": "Valorant",
+            "rating": 4.5
+          }
+    ],
+    "categories":["Shooter"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS4","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/SteamShark11?set=set2"
+},
+{
+    "name": "Bill Davis",
+    "username": "GreenOwl2",
+    "bio": "I see video and web as a way to reach and inspire people.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Animal Crossing New Horizons",
+            "rating": "5.0"
+        },
+        {
+            "name": "Mario Kart 8 Deluxe",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Adventure","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["Switch","PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/GreenOwl2?set=set2"
+},
+{
+    "name": "Justice Faraday",
+    "username": "StinkyJaguar77",
+    "bio": "I love meeting new people through playing games together!",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "FIFA 21",
+            "rating": "5.0"
+        },
+        {
+            "name": "Valorant",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/StinkyJaguar77?set=set2"
+},
+{
+    "name": "Tyler Knightes",
+    "username": "Tyconsix",
+    "bio": "Huge baseball fan. Also love to  talk about the weather.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "MLB The Show 20",
+            "rating": "4.5"
+          }
+    ],
+    "categories":["Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/Tyconsix?set=set2"
+},
+{
+    "name": "Arenjit Saini",
+    "username": "InSaini56",
+    "bio": "History geek who loves talking to new people.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Assassin's Creed Valhalla",
+            "rating": 5.0
+          }
+    ],
+    "categories":["Adventure","Action"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS4","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/InSaini56?set=set2"
+},
+{
+    "name": "Andrew Bernstein",
+    "username": "BearAttack99",
+    "bio": "I love hiking and spending time with nature.",
+    "difficulty": ["Competitive","Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+          "name": "Animal Crossing New Horizons",
+          "rating": "5.0"
+        },
+        {
+          "name": "Valorant",
+          "rating": "5.0"
+        }
+    ],
+    "categories":["Action","Shooter","Sports","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["XBOXONE","Switch","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BearAttack99?set=set2"
+},
+{
+"name": "Freddy Macman",
+"username": "TeddyFreddy77",
+"bio": "Passionate tv nerd and lifelong web junkie. I love sleeping.",
+"difficulty": ["Casual","Competitive"],
+"difficultyList": [
+    {
+        "label": "casual",
+        "value": "casual",
+        "checked": true
+    },
+    {
+        "label": "competitive",
+        "value": "competitive",
+        "checked": true
+    }
+],
+"gamesplayed": [
+    {
+    "name": "League of Legends",
+    "rating": "1.0"
+    },
+    {
+    "name": "Fire Emblem: Three Houses",
+    "rating": "4.5"
+    }
+],
+"categories":["Action","Strategy"],
+"categoriesList": [
+    {
+        "label": "action",
+        "value": "action",
+        "checked": true
+    },
+    {
+        "label": "adventure",
+        "value": "adventure",
+        "checked": false
+    },
+    {
+        "label": "shooter",
+        "value": "shooter",
+        "checked": false
+    },
+    {
+        "label": "sports",
+        "value": "sports",
+        "checked": false
+    },
+    {
+        "label": "strategy",
+        "value": "strategy",
+        "checked": true
+    }
+], 
+"platforms":["Switch","PC"],
+"platformsList1": [
+    {
+        "label":"Microsoft",
+        
+        "children":[
+            {
+                "label":"XBOXONE",
+                "value":"XBOXONE",
+                "checked":false
+            }
+        ]
+    },
+    {
+        "label":"Nintendo",
+        "children":[
+            {
+                "label":"Switch",
+                "value":"Switch",
+                "checked":true
+            }
+        ]
+    },
+    {
+        "label":"Sony",
+        "children":[
+            {
+                "label":"PS4",
+                "value":"PS4",
+                "checked":false
+            },
+            {
+                "label":"PS5",
+                "value":"PS5",
+                "checked":false
+            }
+        ]
+    },
+    {
+        "label":"Other",
+        "children":[
+            {
+                "label":"PC",
+                "value":"PC",
+                "checked":true
+            }
+        ]
+    }
+], 
+"platformsList2" : [
+    {
+        "label":"XBOXONE",
+        "value":"XBOXONE",
+        "checked":false
+    },
+    {
+        "label":"Switch",
+        "value":"Switch",
+        "checked":true
+    },
+    {
+        "label":"PS4",
+        "value":"PS4",
+        "checked":false
+    },
+    {
+        "label":"PS5",
+        "value":"PS5",
+        "checked": false
+    },
+    {
+        "label":"PC",
+        "value":"PC",
+        "checked":true
+    }
+    
+],
+"picture": "https://robohash.org/TeddyFreddy77?set=set2"
+},
+{
+"name": "Tommy Galeaon",
+"username": "PassionateApe60",
+"bio": "I'm passionate about making things fun and simple. Love videogames",
+"difficulty": ["Casual"],
+"difficultyList": [
+    {
+        "label": "casual",
+        "value": "casual",
+        "checked": true
+    },
+    {
+        "label": "competitive",
+        "value": "competitive",
+        "checked": false
+    }
+],
+"gamesplayed": [
+    {
+    "name": "Fire Emblem: Three Houses",
+    "rating": "5.0"
+    }
+],
+"categories":["Action","Strategy"],
+"categoriesList": [
+    {
+        "label": "action",
+        "value": "action",
+        "checked": true
+    },
+    {
+        "label": "adventure",
+        "value": "adventure",
+        "checked": false
+    },
+    {
+        "label": "shooter",
+        "value": "shooter",
+        "checked": false
+    },
+    {
+        "label": "sports",
+        "value": "sports",
+        "checked": false
+    },
+    {
+        "label": "strategy",
+        "value": "strategy",
+        "checked": true
+    }
+], 
+"platforms":["Switch","PC"],
+"platformsList1": [
+    {
+        "label":"Microsoft",
+        
+        "children":[
+            {
+                "label":"XBOXONE",
+                "value":"XBOXONE",
+                "checked":false
+            }
+        ]
+    },
+    {
+        "label":"Nintendo",
+        "children":[
+            {
+                "label":"Switch",
+                "value":"Switch",
+                "checked":true
+            }
+        ]
+    },
+    {
+        "label":"Sony",
+        "children":[
+            {
+                "label":"PS4",
+                "value":"PS4",
+                "checked":false
+            },
+            {
+                "label":"PS5",
+                "value":"PS5",
+                "checked":false
+            }
+        ]
+    },
+    {
+        "label":"Other",
+        "children":[
+            {
+                "label":"PC",
+                "value":"PC",
+                "checked":true
+            }
+        ]
+    }
+], 
+"platformsList2" : [
+    {
+        "label":"XBOXONE",
+        "value":"XBOXONE",
+        "checked":false
+    },
+    {
+        "label":"Switch",
+        "value":"Switch",
+        "checked":true
+    },
+    {
+        "label":"PS4",
+        "value":"PS4",
+        "checked":false
+    },
+    {
+        "label":"PS5",
+        "value":"PS5",
+        "checked": false
+    },
+    {
+        "label":"PC",
+        "value":"PC",
+        "checked":true
+    }
+    
+],
+"picture": "https://robohash.org/PassionateApe60?set=set2"
+},
+{
+    "name": "Zachary Vernadet",
+    "username": "SharkFlame8",
+    "bio": "Originally from Jacksonville. I love black and white classics, chillout music and green tea.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Fall Guys",
+            "rating": 4.0
+        },
+        {
+            "name": "League of Legends",
+            "rating": 3.0
+        },
+        {
+            "name": "Valorant",
+            "rating": 5.0
+        }
+    ],
+    "categories":["Action","Adventure","Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/SharkFlame8?set=set2"
+},
+{
+    "name": "Jillian Oliver",
+    "username": "RedCoconut59",
+    "bio": "I love to ride a bike every now and then. Enjoy coffee, whisky and red wine.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Call of Duty: Black Ops Cold War",
+            "rating": 4.0
+        },
+        {
+            "name": "League of Legends",
+            "rating": 3.0
+        },
+        {
+            "name": "Valorant",
+            "rating": 4.5
+        }
+    ],
+    "categories":["Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/RedCoconut59?set=set2"
+},
+{
+    "name": "Rohan Carkar",
+    "username": "ChipotlepPepper7",
+    "bio": "Originally from California. Lover of art, languages and travelling.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+        "name": "Assassins Creed: Black Flag",
+        "rating": "3.5"
+        }
+    ],
+    "categories":["Action","Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/ChipotlepPepper7?set=set2"
+},
+{
+    "name": "Dennis Rodham",
+    "username": "VioletTree9",
+    "bio": "I see video and web as a way to reach and inspire people.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Animal Crossing New Horizons",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["Switch","PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/VioletTree9?set=set2"
+},
+{
+    "name": "Raymond Sanchez",
+    "username": "BlueSquirrel5",
+    "bio": "I get my inspiration from the fictional world. I'm a social geek.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "League of Legends",
+            "rating": 5
+        },
+        {
+            "name": "Destiny 2",
+            "rating": 1
+        }
+    ],
+    "categories":["Action","Shooter","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["XBOXONE","Switch","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BlueSquirrel5?set=set2"
+},
+{
+    "name": "Gillian Hensley",
+    "username": "RapidSloth4",
+    "bio": "Dreamer who loves tee shirts, travelling and meeting new people.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+    {
+        "name": "League of Legends",
+        "rating": "5.0"
+    }
+    ],
+    "categories":["Action","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/RapidSloth4?set=set2"
+},
+{
+    "name": "Zachary Brown",
+    "username": "ZeustheMoose9",
+    "bio": "OTv lover and hardcore bacon geek. I have a cat named Confucius.",
+    "difficulty": ["Competitive","Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Fire Emblem: Three Houses",
+            "rating": "4.0"
+        }
+    ],
+    "categories":["Action","Adventure","Shooter","Sports","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/ZeustheMoose9?set=set2"
+},
+{
+    "name": "Bobby Brown",
+    "username": "BrownBear121",
+    "bio": "Geek that loves minimal and harmonious designs. I'm learning Japanese.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Call of Duty: Black Ops Cold War",
+            "rating": 2.0
+        },
+        {
+            "name": "Valorant",
+            "rating": 4.5
+        }
+    ],
+    "categories":["Shooter"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS4","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BrownBear121?set=set2"
+},
+{
+    "name": "Jacob Davis",
+    "username": "BlueOwl1",
+    "bio": "I see video and web as a way to reach and inspire people.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Animal Crossing New Horizons",
+            "rating": "5.0"
+        },
+        {
+            "name": "Mario Kart 8 Deluxe",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Adventure","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["Switch","PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/BlueOwl1?set=set2"
+},
+{
+    "name": "Hank Fredson",
+    "username": "SlowIguana7",
+    "bio": "I love meeting new people through playing games together!",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "FIFA 21",
+            "rating": "5.0"
+        },
+        {
+            "name": "Valorant",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/SlowIguana7?set=set2"
+},
+{
+    "name": "Andrew Knightes",
+    "username": "BlueBadger7",
+    "bio": "Huge baseball fan. Also love to  talk about the weather.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "MLB The Show 20",
+            "rating": "4.5"
+        }
+    ],
+    "categories":["Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BlueBadger7?set=set2"
+},
+{
+    "name": "Dalton Goodman",
+    "username": "GoodGoat6",
+    "bio": "History geek who loves talking to new people.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Assassin's Creed Valhalla",
+            "rating": 5.0
+        }
+    ],
+    "categories":["Adventure","Action"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS4","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/GoodGoat6?set=set2"
+},
+{
+"name": "Hugh Cerstudee",
+"username": "Userstudy2",
+"bio": "100% Real human being.",
+"difficulty": ["Competitive"],
+"difficultyList": [
+    {
+        "label": "casual",
+        "value": "casual",
+        "checked": false
+    },
+    {
+        "label": "competitive",
+        "value": "competitive",
+        "checked": true
+    }
+],
+"gamesplayed": [
+    {
+        "name": "Animal Crossing New Horizons",
+        "rating": "3.5"
+    }
+],
+"categories":["Action","Shooter","Sports","Strategy"],
+"categoriesList": [
+    {
+        "label": "action",
+        "value": "action",
+        "checked": true
+    },
+    {
+        "label": "adventure",
+        "value": "adventure",
+        "checked": true
+    },
+    {
+        "label": "shooter",
+        "value": "shooter",
+        "checked": true
+    },
+    {
+        "label": "sports",
+        "value": "sports",
+        "checked": true
+    },
+    {
+        "label": "strategy",
+        "value": "strategy",
+        "checked": true
+    }
+], 
+"platforms":["XBOXONE","Switch","PS5","PC"],
+"platformsList1": [
+    {
+        "label":"Microsoft",
+        
+        "children":[
+            {
+                "label":"XBOXONE",
+                "value":"XBOXONE",
+                "checked":true
+            }
+        ]
+    },
+    {
+        "label":"Nintendo",
+        "children":[
+            {
+                "label":"Switch",
+                "value":"Switch",
+                "checked":true
+            }
+        ]
+    },
+    {
+        "label":"Sony",
+        "children":[
+            {
+                "label":"PS4",
+                "value":"PS4",
+                "checked":false
+            },
+            {
+                "label":"PS5",
+                "value":"PS5",
+                "checked":true
+            }
+        ]
+    },
+    {
+        "label":"Other",
+        "children":[
+            {
+                "label":"PC",
+                "value":"PC",
+                "checked":true
+            }
+        ]
+    }
+], 
+"platformsList2" : [
+    {
+        "label":"XBOXONE",
+        "value":"XBOXONE",
+        "checked":true
+    },
+    {
+        "label":"Switch",
+        "value":"Switch",
+        "checked":true
+    },
+    {
+        "label":"PS4",
+        "value":"PS4",
+        "checked":false
+    },
+    {
+        "label":"PS5",
+        "value":"PS5",
+        "checked": true
+    },
+    {
+        "label":"PC",
+        "value":"PC",
+        "checked":true
+    }
+    
+],
+"picture": "https://robohash.org/userstudy?set=set2"
+},
+{
+    "name": "Mariejeanne Goomes",
+    "username": "RedBuffalo99",
+    "bio": "Passionate tv nerd and lifelong web junkie. I love sleeping.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+        "name": "League of Legends",
+        "rating": "1.0"
+        },
+        {
+        "name": "Fire Emblem: Three Houses",
+        "rating": "4.5"
+        }
+    ],
+    "categories":["Action","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["Switch","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/RedBuffalo99?set=set2"
+    },
+    {
+    "name": "Randie Dannel",
+    "username": "BluePorcupine6",
+    "bio": "I'm passionate about making things fun and simple. Love Anime.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+        "name": "Fire Emblem: Three Houses",
+        "rating": "5.0"
+        }
+    ],
+    "categories":["Action","Strategy"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": true
+        }
+    ], 
+    "platforms":["Switch","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BluePorcupine6?set=set2"
+},
+{
+    "name": "Emylee Cheatle",
+    "username": "BunnyBlue72",
+    "bio": "Originally from Jacksonville. I love black and white classics, chillout music and green tea.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Fall Guys",
+            "rating": 4.0
+        },
+        {
+            "name": "League of Legends",
+            "rating": 3.0
+        },
+        {
+            "name": "Valorant",
+            "rating": 5.0
+        }
+    ],
+    "categories":["Action","Adventure","Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/BunnyBlue72?set=set2"
+},
+{
+    "name": "Vaughn Gaskin",
+    "username": "GoldenHawk9",
+    "bio": "I love to ride a bike every now and then. Enjoy coffee, whisky and red wine.",
+    "difficulty": ["Casual","Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Call of Duty: Black Ops Cold War",
+            "rating": 4.0
+        },
+        {
+            "name": "League of Legends",
+            "rating": 3.0
+        },
+        {
+            "name": "Valorant",
+            "rating": 4.5
+        }
+    ],
+    "categories":["Shooter","Sports"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": false
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": true
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": true
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["XBOXONE","PS5","PC"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":false
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":true
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":true
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":false
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": true
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":true
+        }
+        
+    ],
+    "picture": "https://robohash.org/GoldenHawk9?set=set2"
+},
+{
+    "name": "Timmy Mulvihill",
+    "username": "WhiteHare6",
+    "bio": "Originally from Colorado. Lover of art, languages and travelling.",
+    "difficulty": ["Competitive"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": false
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": true
+        }
+    ],
+    "gamesplayed": [
+        {
+        "name": "Assassins Creed: Black Flag",
+        "rating": "3.5"
+        }
+    ],
+    "categories":["Action","Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": true
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":false
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/WhiteHare6?set=set2"
+},
+{
+    "name": "Keven Chavez",
+    "username": "GroundHog7",
+    "bio": "I see video and web as a way to reach and inspire people.",
+    "difficulty": ["Casual"],
+    "difficultyList": [
+        {
+            "label": "casual",
+            "value": "casual",
+            "checked": true
+        },
+        {
+            "label": "competitive",
+            "value": "competitive",
+            "checked": false
+        }
+    ],
+    "gamesplayed": [
+        {
+            "name": "Animal Crossing New Horizons",
+            "rating": "5.0"
+        }
+    ],
+    "categories":["Adventure"],
+    "categoriesList": [
+        {
+            "label": "action",
+            "value": "action",
+            "checked": false
+        },
+        {
+            "label": "adventure",
+            "value": "adventure",
+            "checked": true
+        },
+        {
+            "label": "shooter",
+            "value": "shooter",
+            "checked": false
+        },
+        {
+            "label": "sports",
+            "value": "sports",
+            "checked": false
+        },
+        {
+            "label": "strategy",
+            "value": "strategy",
+            "checked": false
+        }
+    ], 
+    "platforms":["Switch","PS4"],
+    "platformsList1": [
+        {
+            "label":"Microsoft",
+            
+            "children":[
+                {
+                    "label":"XBOXONE",
+                    "value":"XBOXONE",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Nintendo",
+            "children":[
+                {
+                    "label":"Switch",
+                    "value":"Switch",
+                    "checked":true
+                }
+            ]
+        },
+        {
+            "label":"Sony",
+            "children":[
+                {
+                    "label":"PS4",
+                    "value":"PS4",
+                    "checked":true
+                },
+                {
+                    "label":"PS5",
+                    "value":"PS5",
+                    "checked":false
+                }
+            ]
+        },
+        {
+            "label":"Other",
+            "children":[
+                {
+                    "label":"PC",
+                    "value":"PC",
+                    "checked":false
+                }
+            ]
+        }
+    ], 
+    "platformsList2" : [
+        {
+            "label":"XBOXONE",
+            "value":"XBOXONE",
+            "checked":false
+        },
+        {
+            "label":"Switch",
+            "value":"Switch",
+            "checked":true
+        },
+        {
+            "label":"PS4",
+            "value":"PS4",
+            "checked":true
+        },
+        {
+            "label":"PS5",
+            "value":"PS5",
+            "checked": false
+        },
+        {
+            "label":"PC",
+            "value":"PC",
+            "checked":false
+        }
+        
+    ],
+    "picture": "https://robohash.org/GroundHog7?set=set2"
+}
+]
